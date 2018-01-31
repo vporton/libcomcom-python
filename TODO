@@ -1,2 +1,4 @@
 For handling SIGINT, call PyOS_getsig() (pythonrun.h) to invoke afterward default Python handler.
 Better, directly call PyOS_setsig().
+
+Also use atexit()?
