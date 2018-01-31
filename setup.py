@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     packages=[''],
     url='libcomcom-python',
-    license='AGPLv3',
+    license='LGPLv3',
     author='Victor Porton',
     author_email='porton@narod.ru',
     description='LibComCom Python wrapper'
