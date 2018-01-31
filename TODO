@@ -1,0 +1,1 @@
+For handling SIGINT, call PyOS_getsig() to invoke afterward default Python handler.
